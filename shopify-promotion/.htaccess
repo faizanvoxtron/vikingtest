@@ -1,0 +1,9 @@
+RewriteEngine On
+
+
+
+# Redirect www to non-www with HTTPS
+
+# Add .php extension to URLs that don't have it
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]

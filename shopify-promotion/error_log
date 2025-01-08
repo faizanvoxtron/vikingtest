@@ -1,0 +1,15 @@
+[03-Jan-2024 23:41:09 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/desivmoe/public_html/shopify-promotion/checkout.php on line 261
+[03-Jan-2024 23:43:22 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/desivmoe/public_html/shopify-promotion/checkout.php on line 261
+[03-Jan-2024 23:44:06 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/desivmoe/public_html/shopify-promotion/checkout.php on line 262
+[03-Jan-2024 23:53:34 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/desivmoe/public_html/shopify-promotion/checkout.php on line 262
+[03-Jan-2024 23:53:34 UTC] PHP Notice:  Undefined index: lead_id in /home/desivmoe/public_html/shopify-promotion/checkout.php on line 270
+[03-Jan-2024 23:53:34 UTC] PHP Notice:  Undefined index: package in /home/desivmoe/public_html/shopify-promotion/checkout.php on line 271
+[03-Jan-2024 23:53:34 UTC] PHP Notice:  Undefined index: price in /home/desivmoe/public_html/shopify-promotion/checkout.php on line 272
+[04-Jan-2024 16:50:54 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/desivmoe/public_html/shopify-promotion/checkout.php on line 262
+[04-Jan-2024 16:50:54 UTC] PHP Notice:  Undefined index: package in /home/desivmoe/public_html/shopify-promotion/checkout.php on line 271
+[04-Jan-2024 17:13:43 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/desivmoe/public_html/shopify-promotion/checkout.php on line 262
+[04-Jan-2024 17:13:43 UTC] PHP Notice:  Undefined index: package in /home/desivmoe/public_html/shopify-promotion/checkout.php on line 271
+[04-Jan-2024 18:11:06 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/desivmoe/public_html/shopify-promotion/checkout.php on line 262
+[04-Jan-2024 18:11:06 UTC] PHP Notice:  Undefined index: package in /home/desivmoe/public_html/shopify-promotion/checkout.php on line 271
+[24-Jan-2024 18:43:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/desivmoe/public_html/shopify-promotion/checkout.php on line 262
+[24-Jan-2024 18:58:09 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/desivmoe/public_html/shopify-promotion/checkout.php on line 262

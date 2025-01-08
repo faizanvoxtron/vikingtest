@@ -1,0 +1,30 @@
+[09-Aug-2023 20:25:56 UTC] PHP Notice:  Undefined variable: ip in /home/desivmoe/public_html/logo-design-19/service/lead.php on line 9
+[09-Aug-2023 20:25:56 UTC] PHP Notice:  Undefined variable: latitude in /home/desivmoe/public_html/logo-design-19/service/lead.php on line 9
+[09-Aug-2023 20:25:56 UTC] PHP Notice:  Undefined variable: longitude in /home/desivmoe/public_html/logo-design-19/service/lead.php on line 9
+[09-Aug-2023 20:25:56 UTC] PHP Notice:  Undefined variable: city in /home/desivmoe/public_html/logo-design-19/service/lead.php on line 9
+[09-Aug-2023 20:25:56 UTC] PHP Warning:  PDO::setAttribute() expects exactly 2 parameters, 4 given in /home/desivmoe/public_html/logo-design-19/service/connectionClass.php on line 25
+[09-Aug-2023 20:25:56 UTC] PHP Warning:  PDO::setAttribute() expects exactly 2 parameters, 4 given in /home/desivmoe/public_html/logo-design-19/service/connectionClass.php on line 25
+[09-Aug-2023 20:26:14 UTC] PHP Notice:  Undefined variable: ip in /home/desivmoe/public_html/logo-design-19/service/lead.php on line 9
+[09-Aug-2023 20:26:14 UTC] PHP Notice:  Undefined variable: latitude in /home/desivmoe/public_html/logo-design-19/service/lead.php on line 9
+[09-Aug-2023 20:26:14 UTC] PHP Notice:  Undefined variable: longitude in /home/desivmoe/public_html/logo-design-19/service/lead.php on line 9
+[09-Aug-2023 20:26:14 UTC] PHP Notice:  Undefined variable: city in /home/desivmoe/public_html/logo-design-19/service/lead.php on line 9
+[09-Aug-2023 20:26:14 UTC] PHP Warning:  PDO::setAttribute() expects exactly 2 parameters, 4 given in /home/desivmoe/public_html/logo-design-19/service/connectionClass.php on line 25
+[09-Aug-2023 20:26:14 UTC] PHP Warning:  PDO::setAttribute() expects exactly 2 parameters, 4 given in /home/desivmoe/public_html/logo-design-19/service/connectionClass.php on line 25
+[03-Oct-2023 23:37:10 UTC] PHP Notice:  Undefined variable: ip in /home/desivmoe/public_html/logo-design-19/service/lead.php on line 9
+[03-Oct-2023 23:37:10 UTC] PHP Notice:  Undefined variable: latitude in /home/desivmoe/public_html/logo-design-19/service/lead.php on line 9
+[03-Oct-2023 23:37:10 UTC] PHP Notice:  Undefined variable: longitude in /home/desivmoe/public_html/logo-design-19/service/lead.php on line 9
+[03-Oct-2023 23:37:10 UTC] PHP Notice:  Undefined variable: city in /home/desivmoe/public_html/logo-design-19/service/lead.php on line 9
+[03-Oct-2023 23:37:10 UTC] PHP Warning:  PDO::setAttribute() expects exactly 2 parameters, 4 given in /home/desivmoe/public_html/logo-design-19/service/connectionClass.php on line 25
+[03-Oct-2023 23:37:10 UTC] PHP Warning:  PDO::setAttribute() expects exactly 2 parameters, 4 given in /home/desivmoe/public_html/logo-design-19/service/connectionClass.php on line 25
+[03-Oct-2023 23:41:11 UTC] PHP Notice:  Undefined variable: ip in /home/desivmoe/public_html/logo-design-19/service/lead.php on line 9
+[03-Oct-2023 23:41:11 UTC] PHP Notice:  Undefined variable: latitude in /home/desivmoe/public_html/logo-design-19/service/lead.php on line 9
+[03-Oct-2023 23:41:11 UTC] PHP Notice:  Undefined variable: longitude in /home/desivmoe/public_html/logo-design-19/service/lead.php on line 9
+[03-Oct-2023 23:41:11 UTC] PHP Notice:  Undefined variable: city in /home/desivmoe/public_html/logo-design-19/service/lead.php on line 9
+[03-Oct-2023 23:41:11 UTC] PHP Warning:  PDO::setAttribute() expects exactly 2 parameters, 4 given in /home/desivmoe/public_html/logo-design-19/service/connectionClass.php on line 25
+[03-Oct-2023 23:41:11 UTC] PHP Warning:  PDO::setAttribute() expects exactly 2 parameters, 4 given in /home/desivmoe/public_html/logo-design-19/service/connectionClass.php on line 25
+[03-Oct-2023 23:43:26 UTC] PHP Notice:  Undefined variable: ip in /home/desivmoe/public_html/logo-design-19/service/lead.php on line 9
+[03-Oct-2023 23:43:26 UTC] PHP Notice:  Undefined variable: latitude in /home/desivmoe/public_html/logo-design-19/service/lead.php on line 9
+[03-Oct-2023 23:43:26 UTC] PHP Notice:  Undefined variable: longitude in /home/desivmoe/public_html/logo-design-19/service/lead.php on line 9
+[03-Oct-2023 23:43:26 UTC] PHP Notice:  Undefined variable: city in /home/desivmoe/public_html/logo-design-19/service/lead.php on line 9
+[03-Oct-2023 23:43:27 UTC] PHP Warning:  PDO::setAttribute() expects exactly 2 parameters, 4 given in /home/desivmoe/public_html/logo-design-19/service/connectionClass.php on line 25
+[03-Oct-2023 23:43:27 UTC] PHP Warning:  PDO::setAttribute() expects exactly 2 parameters, 4 given in /home/desivmoe/public_html/logo-design-19/service/connectionClass.php on line 25

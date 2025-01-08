@@ -1,0 +1,121 @@
+/* For mobile phones: */
+@media only screen and (max-width: 768px) {
+  /* working */
+ 
+.main-header .col-md-6 {
+    flex: 1;
+}
+.button-area {
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+}
+.button-area a.green-btn {
+     margin-right: 0px; 
+}
+.review-info p {
+    font-size: 12px;
+}
+.review-info h2 {
+    font-size: 16px;
+}
+.form-sec {
+    margin-top: 40px;
+    backdrop-filter: blur(-1px);
+}
+.form-sec button.submit {
+    width: 100%;
+}
+.col.f-box {
+    flex: 100%;
+    margin-bottom: 20px;
+}
+.service-head {
+    display: flex;
+    flex-direction: column;
+}
+img.banner-right {
+
+    margin-top: 40px;
+}
+.counter {
+    display: flex;
+    flex-direction: column;
+} 	
+
+.count-green {
+    padding: 110px 0;
+    background-size: 280px;
+    background-repeat: no-repeat;
+    text-align: center;
+    background-position: center bottom;
+}
+.count-red {
+    padding: 110px 0;
+    background-size: 280px;
+    background-repeat: no-repeat;
+    text-align: center;
+    background-position: center bottom;
+}
+img.hero-shape.shape-2 {
+    display: none;
+}
+img.hero-shape.shape-3 {
+    display: none;
+}
+.fot2 {
+    margin: 40px 0px;
+}
+.service-head a.orange-btn {
+    float: left;
+}
+a.price-btn {
+
+    width: 70%;
+
+}
+.copyright p {
+    text-align: left;
+}
+
+.footer .align-items-center {
+    align-items: center!important;
+    display: flex;
+    flex-direction: column;
+}
+
+.footer .brand-img {
+    width: 100%;
+}
+}
+
+/* For desktop: */
+@media only screen and (min-width: 768px) {
+}
+
+/* For 1366 Resolution */
+@media only screen and (min-width: 1024px) and (max-width: 1366px) {
+  /* working */
+
+}
+
+/* For tablets: */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1) {
+  /* working */
+  
+}
+
+/* For 1024 Resolution */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-device-width: 1024px) and (max-device-width: 1440p) {
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+}
+
+/* @media only screen and (min-width: 600px) {
+  } */

@@ -1,0 +1,105 @@
+<form id="briefForm" style="padding-bottom:80px" method="POST" action="javascript:brief('briefForm');">
+                            <!-- <input type="hidden" id="user" name="UserId" value="<?= $_GET['id'] ?>">
+                            <input type="hidden" id="price" name="Price" value="<?= $dprice ?>">
+                            <input type="hidden" id="title" name="Package" value="<?= $package ?>"> -->
+                            <div class="mb-3">
+                                <label for="logoType" class="form-label">Business Name</label>
+                                <input type="text" class="form-control" id="Basic information" name="business_name" placeholder="☞ type here" required>
+                            </div>
+                            <div class="mb-3">
+                                <label for="logo" class="form-label">What are you selling</label>
+                                <input type="text" class="form-control" id="logo" name="what_are_you_selling" placeholder="☞ type here" required>
+                            </div>
+
+                            <div class="mb-3">
+                                <label for="logo" class="form-label">Which category does your company fall into?*</label>
+                                <select name="company" class="form-select" aria-label="Default select example">
+                                    <option selected>Please select one of the following:</option>
+                                    <option value="Brand/Retail">Brand/Retail</option>
+                                    <option value="Third Party Logistics">Third Party Logistics</option>
+                                    <option value="Aggregator">Aggregator</option>
+                                    <option value="Partner">Partner</option>
+                                    <option value="Other">Other</option>
+                                </select>
+                            </div>
+
+
+
+                            <div class="mb-3">
+                                <label for="tagline">Store inspiration</label>
+                                <input class="form-control" name="store_inspiration" type="text" id="tagline" placeholder="☞ type here">
+                            </div>
+                            <!--    <div class="mb-3">
+                                <label for="logoStyle">SELECT YOUR PREFERED LOGO STYLE? *</label>
+                                <div class="prefered-logo-designs row">
+                                    <div class="logo-box col-md-2">
+                                        <img src="assets/images/types/Iconic.jpg"/>
+                                        <p>Iconic / Letterforms</p>
+                                    </div>
+                                    <div class="logo-box col-md-2">
+                                        <img src="assets/images/types/Wordmark.jpg"/>
+                                        <p>Wordmarks / Letters</p>
+                                    </div>
+                                    <div class="logo-box col-md-2">
+                                        <img src="assets/images/types/Monogram.jpg"/>
+                                        <p>Lettermarks / Monogram</p>
+                                    </div>
+                                    <div class="logo-box col-md-2">
+                                        <img src="assets/images/types/symbol.jpg"/>
+                                        <p>Symbol / Brandmarks</p>
+                                    </div>
+                                    <div class="logo-box col-md-2">
+                                        <img src="assets/images/types/abstract.jpg"/>
+                                        <p>Abstract / Logomarks</p>
+                                    </div>
+                                    <div class="logo-box col-md-2">
+                                        <img src="assets/images/types/mascot.jpg"/>
+                                        <p>Mascot / Gaming</p>
+                                    </div>
+                                </div>
+                                <input type="hidden" id="prefered" value="" name="PreferedLogo" required>
+                            </div> -->
+                            <!--   <div class="mb-3">
+                                <label for="logoStyle">SELECT TYPE(S) OF HOW YOUR LOGO SHOULD LOOK?</label>
+                                <select class="form-select form-select-lg mb-3" name="LogoStyle" id="logoStyle" aria-label=".form-select-lg example">
+                                    <option selected>Select Logo Style</option>
+                                    <option value="High-Tech">High-Tech</option>
+                                    <option value="minimalist">Minimalist</option>
+                                    <option value="typography">Typography</option>
+                                    <option value="corporate">Corporate</option>
+                                    <option vlaue="illustrative">Illustrative</option>
+                                    <option vlaue="initials">Initials</option>
+                                    <option vlaue="fun">Fun</option>
+                                    <option vlaue="sporty">Sporty</option>
+                                    <option vlaue="shield">Shield</option>
+                                </select>
+                            </div> -->
+                            <div class="mb-3">
+                                <label for="description">Theme Inspiration</label>
+                                <input class="form-control" name="theme_inspiration" type="text" id="description" placeholder="☞ type here">
+
+                            </div>
+                            <div class="mb-3">
+                                <label for="concept">About you</label>
+                                <input class="form-control" name="about_you" type="text" id="concept" placeholder="☞ past experience etc">
+
+                            </div>
+                            <div class="mb-3">
+                                <label for="website">About the project</label>
+                                <input class="form-control" name="about_the_project" type="text" id="website" placeholder="☞ type here">
+
+                            </div>
+                            <div class="mb-3">
+                                <label for="website">Goals with project.</label>
+                                <input class="form-control" name="goals" type="text" id="website" placeholder="☞ Expectations from us">
+                            </div>
+                            <div class="mb-3">
+                                <label for="website">What products are you interested?</label>
+                                <input class="form-control" name="products_interested" type="text" id="website" placeholder="☞ type here">
+                            </div>
+                            <div class="mb-3">
+                                <label for="website">Any store you have as an interest?</label>
+                                <input class="form-control" name="stores_interested" type="text" id="website" placeholder="☞ type here">
+                            </div>
+                            <button type="submit" style="width:100%;" class="submit-buttons">Submit</button>
+                        </form>

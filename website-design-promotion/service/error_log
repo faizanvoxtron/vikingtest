@@ -1,0 +1,25 @@
+[15-Oct-2023 00:10:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/desivmoe/public_html/website-design-promotion/service/connectionClass.php:126
+Stack trace:
+#0 /home/desivmoe/public_html/website-design-promotion/service/email.php(21): database->selectData('email', Array, Array)
+#1 {main}
+  thrown in /home/desivmoe/public_html/website-design-promotion/service/connectionClass.php on line 126
+[26-Oct-2023 11:30:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/desivmoe/public_html/website-design-promotion/service/connectionClass.php:126
+Stack trace:
+#0 /home/desivmoe/public_html/website-design-promotion/service/email.php(21): database->selectData('email', Array, Array)
+#1 {main}
+  thrown in /home/desivmoe/public_html/website-design-promotion/service/connectionClass.php on line 126
+[15-Feb-2024 11:35:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/desivmoe/public_html/website-design-promotion/service/connectionClass.php:126
+Stack trace:
+#0 /home/desivmoe/public_html/website-design-promotion/service/email.php(21): database->selectData('email', Array, Array)
+#1 {main}
+  thrown in /home/desivmoe/public_html/website-design-promotion/service/connectionClass.php on line 126
+[15-Feb-2024 11:35:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/desivmoe/public_html/website-design-promotion/service/connectionClass.php:126
+Stack trace:
+#0 /home/desivmoe/public_html/website-design-promotion/service/email.php(21): database->selectData('email', Array, Array)
+#1 {main}
+  thrown in /home/desivmoe/public_html/website-design-promotion/service/connectionClass.php on line 126
+[17-Feb-2024 07:40:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/desivmoe/public_html/website-design-promotion/service/connectionClass.php:126
+Stack trace:
+#0 /home/desivmoe/public_html/website-design-promotion/service/email.php(21): database->selectData('email', Array, Array)
+#1 {main}
+  thrown in /home/desivmoe/public_html/website-design-promotion/service/connectionClass.php on line 126
