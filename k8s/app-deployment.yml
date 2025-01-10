@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: designvikings-us-web
+  labels:
+    app: designvikings-us-web
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: designvikings-us-web
+  template:
+    metadata:
+      labels:
+        app: designvikings-us-web
+    spec:
+      containers:
+        - name: designvikings-us-web
+          image: voxtrondocker/designvikings-us:latest
+          ports:
+            - containerPort: 80
+          imagePullPolicy: Always
